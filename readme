@@ -1,0 +1,58 @@
+RUF	FIS	No	New	UI	Internal	5	
+Cordova	Apache	Yes	Yes	Mobile	Apache license 2.0	5+	
+Google analytics	Google	Yes	Yes	Analytics	MIT	NA	
+AG-Grid	AG-Grid	No	New	UI Grid	Commercial	latest	
+Chart.js	Chartjs.org	Yes	Yes	UI	MIT	2	
+amChart.js	AMCharts	Yes	Yes	UI	OEM	4	
+free marker	Apache	Yes	Yes	template	Apache license 2.0	latest	
+thymeleaf	thymeleaf	Yes	Yes	template	Apache	3.0.11	
+Jersey		Yes	Yes	API	Eclipse public 2.0	2.3	
+Junit		Yes	Yes	Test	Eclipse public 2.0	5	
+Mockito		Yes	Yes	Test	MIT	3.0.6	
+Open rules	openrules, inc	Yes	?		GPL		
+Open rules	openrules, inc	Yes	?		Non-GPL		
+*Dynatrace	Dynatrace	No	Yes	Monitoring	Commercial		Used in other platforms reserved for next phase
+Splunk		No	Yes	Monitoring	Commercial		
+*ELK stack		No	Yes	Monitoring	Commercial		Used in MDS, reserved for next phase
+Prometheus		Yes	Yes	Monitoring	Apache license 2.0		FraudSight use it
+Grafana		Yes	Yes	Monitoring	Apache license 2.0		FraudSight use it
+Spring admin	Pivotal	Yes	New	Monitoring	Apache license 2.0	latest	
+F5	F5 Networks	No	Yes	Networking			
+Datapower	IBM	No	Yes	gateway			
+Infinity Connect	FIS	No	Yes	gateway			
+Infinity IdP	FIS	No	Yes	Security			
+Github	MSFT	No	Yes	Codebase			
+Checkmarx	Checkmarx	No	Yes	Security			
+PMD	PMD	Yes	Yes	code quality	Apache license 2.0		
+Findbugs		Yes	Yes	code quality	GNU		
+eGain	eGain	No	Yes	content			
+Apache web server	Apache	Yes	Yes	web server	Apache license 2.0	2.4.43	
+Tomcat 	Apache	Yes	Yes	web server	Apache license 2.0	8.x	
+Docker	Docker	No	Yes	container	Enterprise		
+Kubernetes	Google	Yes	Yes	pod manager	Apache license 2.0		
+DB2	IBM	No	Yes	DB	Commercial		
+MSFT SQL Server	MSFT	No	Yes	DB	Commercial		
+Redis	Redis lab	Yes	Yes	IMDG	RSAL or Enterprise license		May consider enterprise
+Spring core 	Pivotal	Yes	Yes	Framework	Apache license 2.0	5+	
+Spring boot	Pivotal	Yes	Yes	Framework	Apache license 2.0	2+	
+Spring data	Pivotal	Yes	Yes	Framework	Apache license 2.0	latest	
+Spring session	Pivotal	Yes	Yes	Framework	Apache license 2.0	latest	
+Spring web	Pivotal	Yes	Yes	Framework	Apache license 2.0	latest	
+Spring AOP	Pivotal	Yes	Yes	Framework	Apache license 2.0	latest	
+Spring security	Pivotal	Yes	Yes	Framework	Apache license 2.0	latest	
+Sprint web service	Pivotal	Yes	Yes	Framework	Apache license 2.0	latest	
+Spring integration	Pivotal	Yes	Yes	Framework	Apache license 2.0	latest	
+Spring batch	Pivotal	Yes	Yes	Framework	Apache license 2.0	latest	
+Spring cloud gateway	Pivotal	Yes	New	Framework	Apache license 2.0	latest	
+Spring cloud config server	Pivotal	Yes	New	Framework	Apache license 2.0	latest	
+Resilience4j	Resilience4j	Yes	New	Framework	Apache license 2.0	1.4.0	
+Eureka	Netflix	Yes	New	service registry	Apache license 2.0	latest	
+Jenkins	Jenkins	Yes	Yes	CI/CD	MIT		
+Nodejs	Nodejs	Yes	Yes	Framework/serverMIT		10+	
+NPM	NPM	Yes	Yes	Package manager	MIT	6+	
+XL Deploy	Xebialabs	No	Yes	Deploy tool			
+Swagger2	Springfox	Yes	Yes	framework	Apache license 2.0	2.9.2	
+log4j	Apache	Yes	Yes	Framework	Apache license 2.0	2.x	
+slf4
+aws
+
