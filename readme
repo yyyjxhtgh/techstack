@@ -19,8 +19,7 @@ Grafana		Yes	Yes	Monitoring	Apache license 2.0		FraudSight use it
 Spring admin	Pivotal	Yes	New	Monitoring	Apache license 2.0	latest	
 F5	F5 Networks	No	Yes	Networking			
 Datapower	IBM	No	Yes	gateway			
-Infinity Connect	FIS	No	Yes	gateway			
-Infinity IdP	FIS	No	Yes	Security			
+Openid Connect		No	Yes	gateway			
 Github	MSFT	No	Yes	Codebase			
 Checkmarx	Checkmarx	No	Yes	Security			
 PMD	PMD	Yes	Yes	code quality	Apache license 2.0		
